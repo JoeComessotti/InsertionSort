@@ -19,7 +19,7 @@ std::array<int, WIDTH> numbers;
 std::array<sf::RectangleShape, WIDTH> rects;
 
 // Defines the window 
-sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Quick sort", sf::Style::Titlebar | sf::Style::Close);
+sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Insertion sort", sf::Style::Titlebar | sf::Style::Close);
 
 
 // Variable to store window events 
